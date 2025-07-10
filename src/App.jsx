@@ -80,7 +80,6 @@ function App() {
             <th>Cargo</th>
             <th>Salário Líquido</th>
             <th>Bruto</th>
-            <th>Referência</th>
             <th>Secretaria</th>
             <th>Tipo de Contratação</th>
           </tr>
