@@ -95,7 +95,6 @@ function App() {
               <td>{servidor.cargo}</td>
               <td style={{ whiteSpace: 'nowrap' }} >{servidor.liquido.toLocaleString('pt-BR', { style: 'currency', currency: 'BRL' })}</td>
               <td style={{ whiteSpace: 'nowrap' }} >{servidor.bruto.toLocaleString('pt-BR', { style: 'currency', currency: 'BRL' })}</td>
-              <td style={{ whiteSpace: 'nowrap' }} >{servidor.mes_ano_referencia}</td>
               <td>{servidor.secretaria}</td>
               <td>{servidor.tipo_contratacao}</td>
             </tr>
